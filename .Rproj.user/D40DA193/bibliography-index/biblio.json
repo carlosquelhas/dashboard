@@ -1,0 +1,193 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "SANTOS",
+                    "given": "ANDRE PERALTA"
+                },
+                {
+                    "family": "Leite",
+                    "given": "Pedro Pinto"
+                },
+                {
+                    "family": "Casaca",
+                    "given": "Pedro"
+                },
+                {
+                    "family": "Fernandes",
+                    "given": "Eugenia"
+                },
+                {
+                    "family": "Rodrigues",
+                    "given": "Eduardo Freire"
+                },
+                {
+                    "family": "Moreno",
+                    "given": "Joana"
+                },
+                {
+                    "family": "Ricoca",
+                    "given": "Vasco"
+                },
+                {
+                    "family": "Gomes",
+                    "given": "Joao Paulo"
+                },
+                {
+                    "family": "Ferreira",
+                    "given": "Rita"
+                },
+                {
+                    "family": "Isidro",
+                    "given": "Joana"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "medRxiv",
+            "id": "santos2022omicron",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "publisher": "Cold Spring Harbor Laboratory Press",
+            "title": "Omicron (BA. 1) SARS-CoV-2 variant is associated with reduced risk of hospitalization and length of stay compared with Delta (B. 1.617. 2)",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Litaker",
+                    "given": "David"
+                },
+                {
+                    "family": "Koroukian",
+                    "given": "Siran M"
+                },
+                {
+                    "family": "Love",
+                    "given": "Thomas E"
+                }
+            ],
+            "container-title": "Medical care",
+            "id": "litaker2005context",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "531-540",
+            "publisher": "JSTOR",
+            "title": "Context and healthcare access: looking beyond the individual",
+            "title-short": "Context and healthcare access",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Scully",
+                    "given": "Olivia Jane"
+                },
+                {
+                    "family": "Bay",
+                    "given": "Boon-Huat"
+                },
+                {
+                    "family": "Yip",
+                    "given": "George"
+                },
+                {
+                    "family": "Yu",
+                    "given": "Yingnan"
+                }
+            ],
+            "container-title": "Cancer genomics & proteomics",
+            "id": "scully2012breast",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "311-320",
+            "publisher": "International Institute of Anticancer Research",
+            "title": "Breast cancer metastasis",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "author": [
+                {
+                    "family": "Scully",
+                    "given": "Olivia Jane"
+                },
+                {
+                    "family": "Bay",
+                    "given": "Boon-Huat"
+                },
+                {
+                    "family": "Yip",
+                    "given": "George"
+                },
+                {
+                    "family": "Yu",
+                    "given": "Yingnan"
+                }
+            ],
+            "container-title": "Cancer genomics & proteomics",
+            "id": "scully2012breast",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "311-320",
+            "publisher": "International Institute of Anticancer Research",
+            "title": "Breast cancer metastasis",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "author": [
+                {
+                    "family": "Justo",
+                    "given": "JL"
+                },
+                {
+                    "family": "Salwa",
+                    "given": "C"
+                }
+            ],
+            "container-title": "Bulletin of the Seismological Society of America",
+            "id": "justo19981531",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "page": "319-328",
+            "publisher": "The Seismological Society of America",
+            "title": "The 1531 Lisbon earthquake",
+            "type": "article-journal",
+            "volume": "88"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
